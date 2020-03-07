@@ -1,0 +1,4 @@
+B:\Code\OneOffShop\OneStopShop.DbUp\bin\Debug\netcoreapp3.0\OneStopShop.DbUp.exe
+B:\Code\OneOffShop\OneStopShop.DbUp\obj\Debug\netcoreapp3.0\OneStopShop.DbUp.csprojAssemblyReference.cache
+B:\Code\OneOffShop\OneStopShop.DbUp\obj\Debug\netcoreapp3.0\OneStopShop.DbUp.AssemblyInfoInputs.cache
+B:\Code\OneOffShop\OneStopShop.DbUp\obj\Debug\netcoreapp3.0\OneStopShop.DbUp.AssemblyInfo.cs
